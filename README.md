@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ziyi Xi, a Ph.D. student of Geophysics (enrolled in computational science).
+I'm Ziyi Xi, a Ph.D. candiate in Geophysics (enrolled in the computational science).
 
 [![Ziyi's github stats](https://github-readme-stats.vercel.app/api?username=ziyixi&show_icons=true&theme=solarized-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
